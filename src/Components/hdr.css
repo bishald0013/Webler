@@ -1,0 +1,22 @@
+.ul_li ul{
+    text-align:end;
+    position: relative;
+}
+
+
+.ul_li ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 25px;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+.hdr_font_2{
+    padding-top: 10%;
+}
+.hdr_info_2{
+    color: aliceblue;
+    margin-top: -35px;
+    font-size: 25px;
+}
